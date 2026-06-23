@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository for academic or research purposes, please cite it as below."
+title: "AI-Generated Image Classification using Deep Learning"
+authors:
+  - family-names: "Gunawan"
+    given-names: "Candra Effendi"
+year: 2026
+repository-code: "https://github.com/ItsCEG/ImageClassification"
+type: software
